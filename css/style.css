@@ -1,0 +1,10 @@
+.container-fluid {
+    padding: 20px;
+    background-image: url("/images/discover-ghana-cultural-event-free-brisbane-cultur.jpg");
+    color: rgb(3, 4, 12);
+}
+
+.container {
+    background-color: rgb(255, 255, 255);
+    border-radius: 25px;
+}
