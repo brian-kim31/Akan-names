@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta http-equiv="X-UA-Compatible" content="ie=edge" />
+    <title>Akan Names</title>
+    <link rel="icon" href="images/1200px-Flag_of_Ghana.svg.png" type="image/x-icon">
+    <link rel="stylesheet" type="text/css" href="css/bootstrap.min.css" />
+    <link rel="stylesheet" type="text/css" href="css/bootstrap.css" />
+    <link rel="stylesheet" type="text/css" href="css/style.css" />
+</head>
+
+<body>
+    <header class="header"><a class="button_link" href="index.html">Home</a>
+        <h1>Akan Names </h1>
+
+        <p>
+            <span class="bg-1"> Fill in required information to run the program</span>
+            </span>
+        </p>
+
+    </header>
+    <div class="container">
+        <div class="form1">
+            <div class="jumbotron">
+                <p>
+                    You just have to enter your birthday date and your gender.
+                </p>
+                <div class="set">
+                    <label>Month</label><br />
+                    <input type="text" id="month" placeholder="Month in number" required /><br /><br />
+                    <label>Day</label><br />
+                    <input type="text" id="day" placeholder="Day in number" required /><br /><br />
+                    <label>Year</label><br />
+                    <input type="text" id="year" placeholder="Year in number" required /><br /><br />
+                    <label>Gender</label><br />
+                    <input type="radio" name="gender" id="gender" value="male" checked /> Male
+                    <br />
+                    <input type="radio" name="gender" value="female" /> Female
+                    <br /><br />
+                    <input type="submit" class="btn-1" value="Submit" onclick="submition()" />
+                </div>
+                <p id="display"></p>
+            </div>
+        </div>
+    </div>
+</body>
+
+</html>
