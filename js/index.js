@@ -79,4 +79,3 @@ function output() {
 /**
  * A week of using a little Axe Deo to hide the "sweat" *
  */
-😉
