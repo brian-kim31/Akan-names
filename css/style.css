@@ -1,4 +1,4 @@
-/* landing page styles*/
+/* landing page styles 💅*/
 
 * {
     box-sizing: border-box;
@@ -9,7 +9,7 @@ body {
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
     font-size: 1rem;
     line-height: 1.5;
-    color: #333;
+    color: rgb(0, 0, 0);
     overflow-x: hidden;
 }
 
@@ -99,7 +99,7 @@ body {
 .form1 {
     font-size: 20px;
     margin-bottom: 0;
-    background: #225470;
+    background-image: linear-gradient(to right, #f83600 0%, #f9d423 100%);
 }
 
 
@@ -116,15 +116,20 @@ body {
 }
 
 .jumbotron {
-    background-color: #225470;
+    background-image: linear-gradient(to right, #f83600 0%, #f9d423 100%);
     border-radius: 6px;
+    height: 100vh;
+    width: 100vw;
+    position: absolute;
+    top: 0;
+    left: 0;
 }
 
 .set {
     text-align: center;
     z-index: 2;
-    background-color: #34b3a0;
     border-radius: 6px;
+    align-items: center;
 }
 
 .btn-1 {
@@ -136,16 +141,46 @@ body {
     display: inline-block;
 }
 
+.btn-2 {
+    border-radius: 5px;
+    color: #fff;
+    background: rgb(0, 0, 0);
+    text-align: center;
+    padding: 13px 20px;
+    cursor: pointer;
+    float: right;
+    width: 10%;
+}
+
+.forms {
+    display: inline;
+    font-size: large;
+}
+
+.card {
+    background-image: linear-gradient(to right, #f83600 0%, #f9d423 100%);
+}
+
+.card-body {
+    background-image: linear-gradient(to top, #37ecba 0%, #72afd3 100%);
+}
+
 #day {
     border-radius: 6px;
+    padding: 12px;
+    font-size: medium;
 }
 
 #month {
     border-radius: 6px;
+    padding: 12px;
+    font-size: medium;
 }
 
 #year {
     border-radius: 6px;
+    padding: 12px;
+    font-size: medium;
 }
 
 .button_link {
@@ -156,4 +191,12 @@ body {
     cursor: pointer;
     float: right;
     display: grid;
+}
+
+#outcome {
+    color: #000000;
+    margin: 0;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 2rem;
+    line-height: 1.5;
 }
