@@ -1,4 +1,5 @@
 # Akan-names
+
 Akan names are derived from Ghanian culture. Frequently in Ghana, children are given their first name as a 'day name' which corresponds to the day in the week they were born. Here are Ghanian day names.
 
 Male
@@ -10,7 +11,7 @@ Tuesday: Kwabena
 
 Wednesday: Kwaku
 
-Thursday:  Yaw
+Thursday: Yaw
 
 Friday: Kofi
 
@@ -25,26 +26,28 @@ Tuesday: Abenaa
 
 Wednesday: Akua
 
-Thursday:  Yaa
+Thursday: Yaa
 
 Friday: Afua
 
 Saturday: Ama
 
-
 # Technologies Used
+
 I have made use of HTML ,CSS and JavaScript
 
 # Bugs
+
 There are no bugs at this stage.
 
-
 # Author
+
 Brian Kiiru Kimani
 
 # Start the Site
 
-To view this project live here https://brayokenya.github.io/My_Portifolio/
+To view this project live here https://brayokenya.github.io/Akan-names/
 
 # License
+
 Copyright (c) {2020} **{Brian Kiiru}**
