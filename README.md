@@ -1,6 +1,5 @@
 # Akan-names
-[![Coverage Status](https://coveralls.io/repos/github/brayokenya/Akan-names/badge.svg?branch=master)](https://coveralls.io/github/brayokenya/Akan-names?branch=master)
-
+<a href="https://codeclimate.com/github/brayokenya/Akan-names/maintainability"><img src="https://api.codeclimate.com/v1/badges/2dd952493be19086691a/maintainability" /></a>
 Akan names are derived from Ghanian culture. Frequently in Ghana, children are given their first name as a 'day name' which corresponds to the day in the week they were born. Here are Ghanian day names.
 
 Male
