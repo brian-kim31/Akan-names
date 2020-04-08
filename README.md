@@ -54,6 +54,11 @@ open in a browser of your choise
 fill in all the required fields and click submit
 It will output your day name according to your DOB and GENDER
 
+# project Preview
+![image](https://user-images.githubusercontent.com/25317059/78765791-25d29d00-7991-11ea-9bb0-c8669b117ab4.png)
+![image](https://user-images.githubusercontent.com/25317059/78765848-384cd680-7991-11ea-9927-0ddf0c733864.png)
+
+
 # Technologies Used
 
 I have made use of HTML ,CSS and JavaScript
