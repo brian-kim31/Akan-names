@@ -1,5 +1,5 @@
+/* declaration  and formula part */
 function output() {
-    /* declaration  and formula part */
     var year = document.getElementById("year").value;
     var yy = parseInt(year);
     var month = document.getElementById("month").value;
@@ -7,7 +7,15 @@ function output() {
     var day = document.getElementById("day").value;
     var dd = parseInt(day);
     var cc = (yy - 1) / 100 + 1;
-    var maleName = ["Kwasi", "Kwadwo", "Kwabena", "Kwaku", "Yaw", "Kofi", "Kwame"];
+    var maleName = [
+        "Kwasi",
+        "Kwadwo",
+        "Kwabena",
+        "Kwaku",
+        "Yaw",
+        "Kofi",
+        "Kwame"
+    ];
     var femaleName = ["Akosua", " Adwoa", "Abenaa", "Akua", "Yaa", "Afua", "Ama"];
     /**
      * formula for the Akan Names...source: From IP2 question
