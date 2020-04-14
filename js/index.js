@@ -127,7 +127,6 @@ function output() {
     } else {
         alert("Fill in all required fields");
     }
-    document.getElementById("myForm").reset();
 }
 
 /**
